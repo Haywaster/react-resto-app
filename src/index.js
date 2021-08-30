@@ -15,7 +15,7 @@ const restoService = new RestoService();
 ReactDOM.render(
     <Provider store={store}>
         <ErrorBoundry>
-            <RestoServiceContext.Provider value={restoService}>                 X
+            <RestoServiceContext.Provider value={restoService}>
                 <Router> 
                     <App/>
                 </Router>
