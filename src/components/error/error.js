@@ -3,7 +3,7 @@
 import React from 'react';
 
 const Error = () => {
-    return <div className="error">Error</div>
+    return <div className="error">Error1111111</div>
 }
 
 export default Error;
